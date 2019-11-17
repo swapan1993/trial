@@ -1,2 +1,3 @@
-# trial
-trial priject
+# maven-project
+
+Simple Maven Project
